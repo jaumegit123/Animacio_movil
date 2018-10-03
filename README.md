@@ -145,7 +145,7 @@ android:orientation="vertical"
 ```
 
 # img face
-´´´xml
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android"
         android:opacity="opaque">
@@ -159,7 +159,7 @@ android:orientation="vertical"
 ```
 
 # Add this theme to your splashscreen in the manifest
-´´´xml
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
